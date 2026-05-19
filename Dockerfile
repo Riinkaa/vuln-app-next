@@ -1,5 +1,5 @@
-# Menggunakan image Node.js versi ringan
-FROM node:18-alpine
+# REVISI: Menggunakan image Node.js versi 20 (memenuhi syarat >=20.9.0)
+FROM node:20-alpine
 
 # Menetapkan direktori kerja di dalam container
 WORKDIR /app
