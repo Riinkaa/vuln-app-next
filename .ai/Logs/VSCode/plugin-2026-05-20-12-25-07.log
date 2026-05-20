@@ -1,0 +1,20 @@
+[5/20/2026, 12:25:07 PM] info: Logging was started to file.
+[5/20/2026, 12:25:07 PM] info: Start application inspector initialization
+[5/20/2026, 12:25:07 PM] info: Hide developer mode UI
+[5/20/2026, 12:25:07 PM] info: Stop backend
+[5/20/2026, 12:25:07 PM] info: Start infrastructure initialization
+[5/20/2026, 12:25:07 PM] info: Start backend initialization
+[5/20/2026, 12:25:07 PM] info: Is light mode: false
+[5/20/2026, 12:25:07 PM] info: Backend port is 8000
+[5/20/2026, 12:25:07 PM] info: Starting backend. Execution by exe
+[5/20/2026, 12:25:07 PM] info: Command: C:\Users\mario_hgfi9ji\AppData\Local\Application Inspector Analyzer\AI.PluginsBackend.exe --port 8000 --log-level Error --logs-dir c:\Office\SWG\Positive Technology\Application Inspector\vuln-app-next\.ai\Logs\Infrastructure\2026-05-20-12-25-07 --light-mode false
+[5/20/2026, 12:25:07 PM] info: Backend process started with PID 15804
+[5/20/2026, 12:25:09 PM] info: Plugin enabled state: false
+[5/20/2026, 12:25:09 PM] info: Hide developer mode UI
+[5/20/2026, 12:25:09 PM] info: Stop the heavy plugins backend instance
+[5/20/2026, 12:25:09 PM] info: Stop backend
+[5/20/2026, 12:25:10 PM] error: Error while heavy backend initialization
+[5/20/2026, 12:25:10 PM] error: Error: 14 UNAVAILABLE: read ECONNRESET
+[5/20/2026, 12:25:10 PM] error: An error occurred during infrastructure initialization: Error: 14 UNAVAILABLE: read ECONNRESET
+[5/20/2026, 12:25:10 PM] error: 14 UNAVAILABLE: read ECONNRESET
+[5/20/2026, 12:25:10 PM] info: Application inspector was stopped

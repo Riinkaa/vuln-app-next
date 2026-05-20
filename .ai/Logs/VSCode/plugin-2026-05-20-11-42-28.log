@@ -1,0 +1,21 @@
+[5/20/2026, 11:42:28 AM] info: Logging was started to file.
+[5/20/2026, 11:42:28 AM] info: Start application inspector initialization
+[5/20/2026, 11:42:28 AM] info: Hide developer mode UI
+[5/20/2026, 11:42:28 AM] info: Start infrastructure initialization
+[5/20/2026, 11:42:28 AM] info: Start backend initialization
+[5/20/2026, 11:42:28 AM] info: Is light mode: false
+[5/20/2026, 11:42:28 AM] info: Backend port is 8000
+[5/20/2026, 11:42:28 AM] info: Starting backend. Execution by exe
+[5/20/2026, 11:42:28 AM] info: Command: C:\Users\mario_hgfi9ji\AppData\Local\Application Inspector Analyzer\AI.PluginsBackend.exe --port 8000 --log-level Error --logs-dir c:\Office\SWG\Positive Technology\Application Inspector\vuln-app-next\.ai\Logs\Infrastructure\2026-05-20-11-42-28 --light-mode false
+[5/20/2026, 11:42:28 AM] info: Backend process started with PID 18192
+[5/20/2026, 11:42:38 AM] error: Error while transport initialization
+[5/20/2026, 11:42:38 AM] error: Error: Deadline passed without connectivity state change
+[5/20/2026, 11:42:38 AM] error: Error while heavy backend initialization
+[5/20/2026, 11:42:38 AM] error: Error: 14 UNAVAILABLE: No connection established. Last error: Error: connect ECONNREFUSED 127.0.0.1:8000
+[5/20/2026, 11:42:38 AM] error: An error occurred during infrastructure initialization: Error: 14 UNAVAILABLE: No connection established. Last error: Error: connect ECONNREFUSED 127.0.0.1:8000
+[5/20/2026, 11:42:38 AM] error: 14 UNAVAILABLE: No connection established. Last error: Error: connect ECONNREFUSED 127.0.0.1:8000
+[5/20/2026, 12:24:57 PM] info: Plugin enabled state: false
+[5/20/2026, 12:24:57 PM] info: Hide developer mode UI
+[5/20/2026, 12:24:57 PM] info: Stop the heavy plugins backend instance
+[5/20/2026, 12:24:57 PM] info: Stop backend
+[5/20/2026, 12:24:58 PM] info: Application inspector was stopped
